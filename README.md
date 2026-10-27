@@ -14,7 +14,6 @@ Designed specifically for freelancers, web design agencies, and digital consulta
 - **Database:** [Supabase PostgreSQL](https://supabase.com/) with Row Level Security (RLS)
 - **Authentication:** [Supabase Auth](https://supabase.com/docs/guides/auth)
 - **Discovery Engine:** [Google Places API](https://developers.google.com/maps/documentation/places/web-service) (Live business search)
-- **AI Consultant:** [Google Gemini 2.5 Flash](https://aistudio.google.com/) (Varex AI Outreach Engine)
 - **Email Delivery:** [Resend API](https://resend.com/) (Direct cold outreach delivery)
 - **Icons:** [Lucide React](https://lucide.dev/)
 
